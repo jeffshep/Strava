@@ -1,0 +1,5 @@
+Ideas for Strava data:
+fawda123/rStrava on github to get a package that allows simple access via Strava API to data.
+
+Will I be able to predict my segment time based on a relationship between gradient and speed?
+If so, pick a segment I haven't ridden nearby and test the prediction.
