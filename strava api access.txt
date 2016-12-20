@@ -1,7 +1,0 @@
-App name: 		MeStrava
-Client ID: 		9663
-Client Secret: 		71fa56b47556e16aaa047f0e5f33d7cde54b6082
-Your Access Token:	2e7ce39bfb40cdfdb07a37994e7f7e43ef73c5Mec6
-
-Athlete ID: 3341215
-mind teh cats : 470691280
